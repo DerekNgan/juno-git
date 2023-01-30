@@ -22,3 +22,11 @@ h1{
     text-align: center;
 }
 
+h2{
+    font-size: 2rem;
+    color: black;
+}
+
+main{
+    background-color: aqua;
+}
